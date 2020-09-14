@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "791355911246",
+    "firebase_url": "https://seoulmate-82f95.firebaseio.com",
+    "project_id": "seoulmate-82f95",
+    "storage_bucket": "seoulmate-82f95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791355911246:android:f58c5ed4edc56ae2ff271f",
+        "android_client_info": {
+          "package_name": "com.example.SeoulMate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791355911246-11n3o8v8jq1n9dkphvpqan0lmbd041ff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.SeoulMate",
+            "certificate_hash": "c61b35ff7fdab6935adcff28b4126bcde5752138"
+          }
+        },
+        {
+          "client_id": "791355911246-tfodsp38kqngbag96lflbgf9a02n96t3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSyHcB7HA2GjPtcWrU9ehy9T5WUIKAe2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791355911246-tfodsp38kqngbag96lflbgf9a02n96t3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
